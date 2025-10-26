@@ -1,23 +1,9 @@
-<div align="center" style="position: relative; overflow: hidden;">
-  <img id="header-banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Sahil%20Ranmbail&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20Engineer%20|%20ML%20Innovator%20|%20Computer%20Vision%20Specialist&descSize=20&descAlignY=55" width="100%" style="transition: opacity 2s ease-in-out;">
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sahil%20Ranmbail&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20Engineer%20|%20ML%20Innovator%20|%20Computer%20Vision%20Specialist&descSize=20&descAlignY=55" width="100%"/>
+
 </div>
-
-<script>
-  const gradients = [
-    "6,11,20",
-    "2,8,18",
-    "10,20,30",
-    "1,12,22",
-    "5,15,25"
-  ];
-  let index = 0;
-  setInterval(() => {
-    index = (index + 1) % gradients.length;
-    const img = document.getElementById("header-banner");
-    img.src = `https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=${gradients[index]}&height=300&section=header&text=Sahil%20Ranmbail&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20Engineer%20|%20ML%20Innovator%20|%20Computer%20Vision%20Specialist&descSize=20&descAlignY=55`;
-  }, 5000);
-</script>
-
 
 <div align="center">
 
