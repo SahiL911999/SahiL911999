@@ -18,105 +18,34 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Professional Profile
-
-```yaml
-name: Sahil Ranmbail
-role: AI Engineer & ML Specialist
-location: Pakistan 🇵🇰
-languages: [Python, C++, JavaScript, SQL]
-status: Building the Future with AI
-```
-
-<img src="https://img.shields.io/badge/AI_Engineer-00D9FF?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Engineer-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/ML_Specialist-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/CV_Expert-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Current Mission
-
-```yaml
-focus: Production-Ready AI Agents
-learning: NVIDIA DeepStream & Metropolis
-passion: Democratizing AI Technology
-motto: "Building Tomorrow's Intelligence"
-```
-
-<img src="https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Pakistan_🇵🇰-Location-FF6B6B?style=for-the-badge" />
 
 </div>
 
 ---
-
-### 🧠 Core Expertise
 
 <div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
-
-**🤖 LLM & Agents**
-
-Multi-Agent Systems
-Graph RAG
-LangChain/LangGraph
-Prompt Engineering
-Fine-tuning
-
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch" /><br/>
+<sub><b>Languages & Frameworks</b></sub>
 </td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/video.png" width="50"/>
-
-**🎥 Computer Vision**
-
-NVIDIA DeepStream
-NVIDIA Metropolis
-TAO Toolkit
-YOLO v11
-Real-time Analytics
-
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux" /><br/>
+<sub><b>DevOps & Cloud</b></sub>
 </td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="50"/>
-
-**🧠 Machine Learning**
-
-Deep Learning
-Neural Networks
-GPU Acceleration
-Model Optimization
-Transfer Learning
-
-</td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
-
-**🚀 MLOps**
-
-Docker/Kubernetes
-CI/CD Pipelines
-Model Deployment
-FastAPI/Streamlit
-Production Systems
-
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=vscode,github,postgres,mongodb,redis" /><br/>
+<sub><b>Tools & Databases</b></sub>
 </td>
 </tr>
 </table>
@@ -125,16 +54,24 @@ Production Systems
 
 ---
 
-### ⚡ Quick Stats
-
 <div align="center">
 
-| 🎯 Specialization | 🛠️ Tech Stack | 📊 Focus Area |
-|:---:|:---:|:---:|
-| **Multi-Agent AI** | CrewAI • AutoGen | Building Intelligent Systems |
-| **Graph RAG** | Neo4j • LangChain | Knowledge Graphs |
-| **Computer Vision** | DeepStream • Metropolis | Real-time Analytics |
-| **GPU Computing** | CUDA • TensorRT | High-Performance ML |
+### 🎯 Expertise Matrix
+
+<img src="https://img.shields.io/badge/LLMs-Multi--Agent_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-Orchestration-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-RAG_Systems-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-Workflows-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NVIDIA-DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-Metropolis-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-TAO_Toolkit-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Neo4j-Knowledge_Graphs-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-GPU_Accelerated-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-High_Performance-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorRT-Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 </div>
 
@@ -142,11 +79,17 @@ Production Systems
 
 <div align="center">
 
-### 💡 Philosophy
+### ⚡ Current Focus
 
-> *"The best way to predict the future is to build it with AI"*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Agents;Mastering+NVIDIA+DeepStream+SDK;Developing+Graph+RAG+Systems;Creating+Multi-Agent+Workflows" alt="Focus" />
 
-**☕ Coffee** → **💻 Code** → **🤖 AI Models** → **🚀 Innovation**
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahiL911999&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
