@@ -87,14 +87,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahiL911999&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 🤖 AI/ML Frameworks & Libraries
