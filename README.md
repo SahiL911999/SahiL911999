@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## 🚀 About Me
@@ -52,8 +50,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 🎯 Expertise Matrix
@@ -75,8 +71,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### ⚡ Current Focus
@@ -85,7 +79,9 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -156,7 +152,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 🌟 Featured Projects
 
@@ -299,7 +296,7 @@
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 📊 GitHub Statistics
 
@@ -313,8 +310,6 @@
 
 </div>
 
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -323,7 +318,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 🌐 Connect With Me
 
@@ -337,8 +332,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-profile)
 
 </div>
-
----
 
 ## 📫 Let's Collaborate!
 
@@ -386,8 +379,6 @@ Exploring cutting-edge AI technologies and contributing to open-source projects
 
 </div>
 
----
-
 <div align="center">
 
 ### 💭 Dev Quotes
@@ -398,7 +389,6 @@ Exploring cutting-edge AI technologies and contributing to open-source projects
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
----
 
 <img src="https://komarev.com/ghpvc/?username=SahiL911999&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
