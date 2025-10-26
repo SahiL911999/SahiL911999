@@ -20,30 +20,87 @@
 
 ## 🚀 About Me
 
-<img src="https://img.shields.io/badge/AI_Engineer-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ML_Specialist-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/CV_Expert-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Pakistan_🇵🇰-Location-FF6B6B?style=for-the-badge" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_Engineer-3+_Years-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Axiom_World-Current-6C63FF?style=for-the-badge&logo=building&logoColor=white" />
+<img src="https://img.shields.io/badge/Lahore,_Pakistan_🇵🇰-Location-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/IEEE_Published-Researcher-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💼 Professional Profile
+
+**AI Engineer** @ [**Axiom World**](https://axiomworld.com)
+📍 Lahore, Pakistan | 💼 3 Years Industrial Experience
+
+```yaml
+role: AI Engineer & ML Specialist
+company: Axiom World
+experience: 3+ Years
+education: Bachelor's in Data Science
+specialization: Deep Learning & Computer Vision
+```
+
+<img src="https://img.shields.io/badge/Industrial_AI-3+_Years-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Production_Systems-Deployed-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Team_Leadership-Experienced-00D9FF?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Academic Excellence
+
+**Bachelor's Degree in Data Science**
+🔬 Published Researcher | 📚 IEEE Xplore Author
+
+**Featured Publication:**
+> **"Leveraging Deep Learning With Multi-Head Attention for Accurate Extraction of Medicine From Handwritten Prescriptions"**
+
+[![IEEE Xplore](https://img.shields.io/badge/Read_on_IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10894218)
+
+<img src="https://img.shields.io/badge/Citations-Growing-00629B?style=flat-square" />
+<img src="https://img.shields.io/badge/Impact-Healthcare_AI-00629B?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
+
+### 💡 What I Do
+
+**Building production-grade AI systems that solve real-world problems**
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch" /><br/>
-<sub><b>Languages & Frameworks</b></sub>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br/>
+<b>Multi-Agent AI</b><br/>
+<sub>CrewAI • LangGraph</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux" /><br/>
-<sub><b>DevOps & Cloud</b></sub>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/video.png" width="60"/><br/>
+<b>Computer Vision</b><br/>
+<sub>DeepStream • Metropolis</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=vscode,github,postgres,mongodb,redis" /><br/>
-<sub><b>Tools & Databases</b></sub>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/brain.png" width="60"/><br/>
+<b>Deep Learning</b><br/>
+<sub>PyTorch • TensorFlow</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/graph.png" width="60"/><br/>
+<b>Graph RAG</b><br/>
+<sub>Neo4j • LangChain</sub>
 </td>
 </tr>
 </table>
