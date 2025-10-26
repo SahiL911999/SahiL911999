@@ -20,71 +20,133 @@
 
 ## 🚀 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Sahil Ranmbail"
-        self.role = "AI Engineer & ML Specialist"
-        self.location = "Pakistan 🇵🇰"
-        self.code = ["Python", "C++", "JavaScript", "SQL"]
-        
-        self.expertise = {
-            "ai_ml": [
-                "Large Language Models (LLMs)",
-                "Multi-Agent AI Systems", 
-                "Graph RAG & Knowledge Graphs",
-                "Natural Language Processing",
-                "Deep Learning & Neural Networks"
-            ],
-            "computer_vision": [
-                "NVIDIA DeepStream SDK",
-                "NVIDIA Metropolis",
-                "NVIDIA TAO Toolkit",
-                "Object Detection & Tracking",
-                "Real-time Video Analytics",
-                "YOLO v11 & MediaPipe"
-            ],
-            "frameworks": [
-                "LangChain & LangGraph",
-                "CrewAI & AutoGen",
-                "TensorFlow & PyTorch",
-                "XGBoost & scikit-learn"
-            ],
-            "deployment": [
-                "Docker & Kubernetes",
-                "FastAPI & Streamlit",
-                "MLOps & Model Optimization",
-                "GPU Acceleration (CUDA)"
-            ]
-        }
-        
-        self.current_focus = "Building production-ready AI agents with CrewAI & LangGraph"
-        self.learning = "Advanced NVIDIA DeepStream pipelines & Metropolis applications"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something extraordinary together! 🚀")
-    
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Reading AI Research Papers",
-            "afternoon": "💻 Building & Training AI Models", 
-            "evening": "🧪 Experimenting with New Technologies",
-            "night": "📚 Learning & Contributing to Open Source"
-        }
+<div align="center">
 
-me = AIEngineer()
-me.say_hi()
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Professional Profile
+
+```yaml
+name: Sahil Ranmbail
+role: AI Engineer & ML Specialist
+location: Pakistan 🇵🇰
+languages: [Python, C++, JavaScript, SQL]
+status: Building the Future with AI
 ```
+
+<img src="https://img.shields.io/badge/AI_Engineer-00D9FF?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/ML_Specialist-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/CV_Expert-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Mission
+
+```yaml
+focus: Production-Ready AI Agents
+learning: NVIDIA DeepStream & Metropolis
+passion: Democratizing AI Technology
+motto: "Building Tomorrow's Intelligence"
+```
+
+<img src="https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🧠 Core Expertise
 
 <div align="center">
 
-### 🎯 Current Focus
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
 
-🔭 **Working On:** Advanced multi-agent AI systems with CrewAI & Graph RAG implementations  
-🌱 **Learning:** NVIDIA DeepStream SDK, Metropolis platform & cutting-edge LLM architectures  
-💡 **Passionate About:** Democratizing AI and making intelligent systems accessible to everyone  
-⚡ **Fun Fact:** I turn coffee into AI models ☕ → 🤖 → 🚀  
-🎓 **Philosophy:** *"The best way to predict the future is to build it with AI"*
+**🤖 LLM & Agents**
+
+Multi-Agent Systems
+Graph RAG
+LangChain/LangGraph
+Prompt Engineering
+Fine-tuning
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/video.png" width="50"/>
+
+**🎥 Computer Vision**
+
+NVIDIA DeepStream
+NVIDIA Metropolis
+TAO Toolkit
+YOLO v11
+Real-time Analytics
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="50"/>
+
+**🧠 Machine Learning**
+
+Deep Learning
+Neural Networks
+GPU Acceleration
+Model Optimization
+Transfer Learning
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
+
+**🚀 MLOps**
+
+Docker/Kubernetes
+CI/CD Pipelines
+Model Deployment
+FastAPI/Streamlit
+Production Systems
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### ⚡ Quick Stats
+
+<div align="center">
+
+| 🎯 Specialization | 🛠️ Tech Stack | 📊 Focus Area |
+|:---:|:---:|:---:|
+| **Multi-Agent AI** | CrewAI • AutoGen | Building Intelligent Systems |
+| **Graph RAG** | Neo4j • LangChain | Knowledge Graphs |
+| **Computer Vision** | DeepStream • Metropolis | Real-time Analytics |
+| **GPU Computing** | CUDA • TensorRT | High-Performance ML |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Philosophy
+
+> *"The best way to predict the future is to build it with AI"*
+
+**☕ Coffee** → **💻 Code** → **🤖 AI Models** → **🚀 Innovation**
 
 </div>
 
