@@ -1,9 +1,23 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sahil%20Ranmbail&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20Engineer%20|%20ML%20Innovator%20|%20Computer%20Vision%20Specialist&descSize=20&descAlignY=55" width="100%"/>
-
+<div align="center" style="position: relative; overflow: hidden;">
+  <img id="header-banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Sahil%20Ranmbail&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20Engineer%20|%20ML%20Innovator%20|%20Computer%20Vision%20Specialist&descSize=20&descAlignY=55" width="100%" style="transition: opacity 2s ease-in-out;">
 </div>
+
+<script>
+  const gradients = [
+    "6,11,20",
+    "2,8,18",
+    "10,20,30",
+    "1,12,22",
+    "5,15,25"
+  ];
+  let index = 0;
+  setInterval(() => {
+    index = (index + 1) % gradients.length;
+    const img = document.getElementById("header-banner");
+    img.src = `https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=${gradients[index]}&height=300&section=header&text=Sahil%20Ranmbail&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20Engineer%20|%20ML%20Innovator%20|%20Computer%20Vision%20Specialist&descSize=20&descAlignY=55`;
+  }, 5000);
+</script>
+
 
 <div align="center">
 
@@ -168,7 +182,7 @@
 <img src="https://img.shields.io/badge/Expert-00F7F7?style=flat-square"/>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"/>
+<img height="80" src="https://img.icons8.com/color/96/nvidia.png"/>
 <br/><br/>
 <strong>Computer Vision</strong>
 <br/><br/>
@@ -198,6 +212,7 @@
 </table>
 
 </details>
+
 
 <!-- Animated Divider -->
 <div align="center">
