@@ -309,10 +309,10 @@ me.say_hi()
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahiL911999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahiL911999&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahiL911999&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahiL911999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SahiL911999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SahiL911999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area_color=00D9FF" />
 
 </div>
 
@@ -347,59 +347,35 @@ me.say_hi()
 
 ## 🎯 Technical Specializations
 
-```mermaid
-mindmap
-  root((Sahil Ranmbail<br/>AI Engineer))
-    LLM Applications
-      Multi-Agent Systems
-        CrewAI
-        AutoGen
-      RAG Architectures
-        Graph RAG
-        Vector Search
-      Prompt Engineering
-      LangChain/LangGraph
-      Fine-tuning
-    Computer Vision
-      NVIDIA DeepStream
-      NVIDIA Metropolis
-      TAO Toolkit
-      Object Detection
-        YOLO v11
-        Detectron2
-      Face Recognition
-        MediaPipe
-        Face Mesh
-      Video Analytics
-        Real-time Processing
-        Stream Processing
-      GPU Acceleration
-        CUDA
-        TensorRT
-    Machine Learning
-      Supervised Learning
-      Deep Learning
-        CNNs
-        RNNs
-        Transformers
-      Model Optimization
-      GPU Acceleration
-        XGBoost GPU
-        cuDF
-      Transfer Learning
-    Knowledge Graphs
-      Neo4j
-      Graph RAG
-      Semantic Search
-      Entity Extraction
-      Cypher Queries
-    MLOps
-      Docker
-      Kubernetes
-      CI/CD
-      Model Monitoring
-      A/B Testing
-```
+<div align="center">
+
+### 🤖 LLM Applications
+**Multi-Agent Systems** • CrewAI • AutoGen
+**RAG Architectures** • Graph RAG • Vector Search
+**Prompt Engineering** • LangChain • LangGraph • Fine-tuning
+
+### 🎥 Computer Vision
+**NVIDIA Stack** • DeepStream • Metropolis • TAO Toolkit
+**Object Detection** • YOLO v11 • Detectron2
+**Face Recognition** • MediaPipe • Face Mesh
+**Video Analytics** • Real-time Processing • Stream Processing
+**GPU Acceleration** • CUDA • TensorRT
+
+### 🧠 Machine Learning
+**Supervised Learning** • Deep Learning
+**Neural Networks** • CNNs • RNNs • Transformers
+**Model Optimization** • Transfer Learning
+**GPU Acceleration** • XGBoost GPU • cuDF
+
+### 🕸️ Knowledge Graphs
+**Neo4j** • Graph RAG • Semantic Search
+**Entity Extraction** • Cypher Queries
+
+### 🚀 MLOps
+**Containerization** • Docker • Kubernetes
+**CI/CD** • Model Monitoring • A/B Testing
+
+</div>
 
 ---
 
@@ -422,7 +398,7 @@ mindmap
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahiL911999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahiL911999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF)
 
 </div>
 
