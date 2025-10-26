@@ -50,16 +50,13 @@
 
 ### 👨‍💻 Professional Profile
 
-<div align="center">
-
-| 🎯 Role | AI Engineer & ML Specialist |
-|---------|---------------------------|
-| 🏢 Company | **Axiom World** |
-| 📍 Location | Lahore, Pakistan 🇵🇰 |
-| ⏳ Experience | **3+ Years** |
-| 🎓 Education | Bachelor's in Data Science |
-
-</div>
+<table align="center">
+<tr><td><strong>🎯 Role</strong></td><td>AI Engineer & ML Specialist</td></tr>
+<tr><td><strong>🏢 Company</strong></td><td>Axiom World</td></tr>
+<tr><td><strong>📍 Location</strong></td><td>Lahore, Pakistan 🇵🇰</td></tr>
+<tr><td><strong>⏳ Experience</strong></td><td>3+ Years</td></tr>
+<tr><td><strong>🎓 Education</strong></td><td>Bachelor’s in Data Science</td></tr>
+</table>
 
 #### 🔥 Current Focus
 
@@ -75,7 +72,7 @@
 **🤖 AI/ML:** Deep Learning • Computer Vision • NLP  
 **🧠 Frameworks:** LangChain • LangGraph • CrewAI  
 **🎬 NVIDIA:** DeepStream • Metropolis • TensorRT  
-**🗄️ Data:** Neo4j • Vector DBs • PostgreSQL
+**🗄️ Data:** Neo4j • Vector DBs • PostgreSQL  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Industrial_AI-3%2B_Years-00F7F7?style=flat-square&logo=artificial-intelligence" />
@@ -135,6 +132,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
 
 <!-- Core Competencies -->
 <details open>
