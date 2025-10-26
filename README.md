@@ -382,20 +382,6 @@
 
 </div>
 
----
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 🏅 Certification | 🏢 Organization | 📅 Year |
-|:---|:---:|:---:|
-| NVIDIA Deep Learning Institute | NVIDIA | 2024 |
-| Machine Learning Specialization | Coursera | 2023 |
-| Advanced Computer Vision | Udacity | 2023 |
-| AWS Certified ML Specialty | Amazon | 2023 |
-
-</div>
 
 ---
 
@@ -421,21 +407,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-profile)
 
 </div>
-
----
-
-## 💡 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 **Building Production-Ready Multi-Agent AI Systems with CrewAI**
-- 🕸️ **Graph RAG: The Future of Retrieval Augmented Generation**
-- 🎥 **Real-time Video Analytics with NVIDIA DeepStream SDK**
-- 🤖 **Optimizing LLM Performance with LangGraph Workflows**
-- 👁️ **Advanced Object Detection with YOLO v11 & TensorRT**
-- 📊 **GPU-Accelerated Machine Learning: XGBoost on CUDA**
-- 🧠 **Knowledge Graphs for AI: Neo4j & Semantic Search**
-- 🎯 **From Prototype to Production: MLOps Best Practices**
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -487,29 +458,9 @@ Exploring cutting-edge AI technologies and contributing to open-source projects
 
 ---
 
-## 📚 Tech Stack Summary
-
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│  Languages:  Python • C++ • JavaScript • SQL • Bash                     │
-│  AI/ML:      TensorFlow • PyTorch • XGBoost • scikit-learn • Keras     │
-│  LLMs:       LangChain • LangGraph • CrewAI • OpenAI • Anthropic       │
-│  CV:         NVIDIA DeepStream • Metropolis • TAO • YOLO • MediaPipe   │
-│  Databases:  Neo4j • PostgreSQL • MongoDB • Pinecone • ChromaDB        │
-│  DevOps:     Docker • Kubernetes • Git • GitHub Actions • AWS          │
-│  Tools:      VS Code • Jupyter • Colab • Postman • Linux               │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
+### 💭 Dev Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
