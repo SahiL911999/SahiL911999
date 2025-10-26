@@ -52,27 +52,6 @@
 
 <div align="center">
 
-### 🎯 Expertise Matrix
-
-<img src="https://img.shields.io/badge/LLMs-Multi--Agent_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-Orchestration-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-RAG_Systems-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-Workflows-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/NVIDIA-DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA-Metropolis-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA-TAO_Toolkit-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Neo4j-Knowledge_Graphs-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-GPU_Accelerated-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA-High_Performance-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorRT-Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-
-</div>
-
-<div align="center">
-
 ### ⚡ Current Focus
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Agents;Mastering+NVIDIA+DeepStream+SDK;Developing+Graph+RAG+Systems;Creating+Multi-Agent+Workflows" alt="Focus" />
