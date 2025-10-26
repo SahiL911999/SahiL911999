@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Sahil - AI Engineer & ML Innovator
+# 👋 Hi, I'm Sahil Ranmbail - AI Engineer & ML Innovator
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Machine+Learning+Expert;Building+Intelligent+Systems+with+LLMs;Graph+RAG+%7C+Multi-Agent+AI+%7C+Computer+Vision;Transforming+Ideas+into+AI+Solutions" alt="Typing SVG" />
 
