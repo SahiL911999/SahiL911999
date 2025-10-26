@@ -323,58 +323,6 @@
 
 ---
 
-## 💼 Core Competencies & Expertise
-
-<div align="center">
-
-| 🤖 AI/ML Engineering | 🧠 LLM & Agents | 🎥 Computer Vision | 📊 Data Science |
-|:---:|:---:|:---:|:---:|
-| Model Development | Multi-Agent Systems | NVIDIA DeepStream | Data Analysis |
-| Feature Engineering | RAG Architectures | Object Detection | Statistical Modeling |
-| Model Optimization | Prompt Engineering | Video Analytics | Predictive Analytics |
-| MLOps & Deployment | Agent Orchestration | Real-time Processing | Data Visualization |
-| GPU Acceleration | LangChain/LangGraph | NVIDIA Metropolis | ETL Pipelines |
-| Neural Networks | CrewAI Integration | TAO Toolkit | Big Data Processing |
-
-</div>
-
----
-
-## 🎯 Technical Specializations
-
-<div align="center">
-
-### 🤖 LLM Applications
-**Multi-Agent Systems** • CrewAI • AutoGen
-**RAG Architectures** • Graph RAG • Vector Search
-**Prompt Engineering** • LangChain • LangGraph • Fine-tuning
-
-### 🎥 Computer Vision
-**NVIDIA Stack** • DeepStream • Metropolis • TAO Toolkit
-**Object Detection** • YOLO v11 • Detectron2
-**Face Recognition** • MediaPipe • Face Mesh
-**Video Analytics** • Real-time Processing • Stream Processing
-**GPU Acceleration** • CUDA • TensorRT
-
-### 🧠 Machine Learning
-**Supervised Learning** • Deep Learning
-**Neural Networks** • CNNs • RNNs • Transformers
-**Model Optimization** • Transfer Learning
-**GPU Acceleration** • XGBoost GPU • cuDF
-
-### 🕸️ Knowledge Graphs
-**Neo4j** • Graph RAG • Semantic Search
-**Entity Extraction** • Cypher Queries
-
-### 🚀 MLOps
-**Containerization** • Docker • Kubernetes
-**CI/CD** • Model Monitoring • A/B Testing
-
-</div>
-
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
