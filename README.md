@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Machine+Learning+Expert;Building+Intelligent+Systems+with+LLMs;Graph+RAG+%7C+Multi-Agent+AI+%7C+Computer+Vision;Transforming+Ideas+into+AI+Solutions" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sahil-ranmbail/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sahil-ranmbail/](https://www.linkedin.com/in/sahil-ranmbail/))
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.ranmbail@gmail.com)
 
 </div>
