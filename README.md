@@ -333,11 +333,6 @@ I'm always interested in collaborating on innovative AI projects.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Currently Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-
 <img src="https://komarev.com/ghpvc/?username=SahiL911999&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
