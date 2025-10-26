@@ -316,38 +316,7 @@
 
 <div align="center">
 
-I'm always interested in collaborating on innovative AI projects, especially in:
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Multi-Agent AI Systems
-Building intelligent agent orchestrations with CrewAI, AutoGen, and LangGraph for complex problem-solving
-
-### 🧠 LLM Applications
-Creating practical LLM-powered solutions with RAG, fine-tuning, and prompt engineering
-
-### 🕸️ Knowledge Graphs
-Developing semantic search and Graph RAG systems with Neo4j and vector databases
-
-</td>
-<td width="50%">
-
-### 🎥 Computer Vision
-Real-time detection, tracking, and video analytics using NVIDIA DeepStream, Metropolis, and TAO Toolkit
-
-### 📊 ML Engineering
-Scalable and production-ready ML pipelines with GPU acceleration and MLOps best practices
-
-### 🚀 AI Research
-Exploring cutting-edge AI technologies and contributing to open-source projects
-
-</td>
-</tr>
-</table>
+I'm always interested in collaborating on innovative AI projects.
 
 <div align="center">
 
