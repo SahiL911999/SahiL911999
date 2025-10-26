@@ -37,29 +37,32 @@
 
 ### 👨‍💻 Professional Profile
 
-```typescript
-const sahil = {
-    role: "AI Engineer & ML Specialist",
-    company: "Axiom World",
-    location: "Lahore, Pakistan 🇵🇰",
-    experience: "3+ Years",
-    education: "Bachelor's in Data Science",
-    
-    currentFocus: [
-        "Building Production AI Agents",
-        "NVIDIA DeepStream SDK",
-        "Graph RAG Systems",
-        "Multi-Agent Workflows"
-    ],
-    
-    expertise: {
-        ai: ["Deep Learning", "Computer Vision", "NLP"],
-        frameworks: ["LangChain", "LangGraph", "CrewAI"],
-        nvidia: ["DeepStream", "Metropolis", "TensorRT"],
-        databases: ["Neo4j", "Vector DBs", "PostgreSQL"]
-    }
-};
-```
+<div align="center">
+
+| 🎯 Role | AI Engineer & ML Specialist |
+|---------|---------------------------|
+| 🏢 Company | **Axiom World** |
+| 📍 Location | Lahore, Pakistan 🇵🇰 |
+| ⏳ Experience | **3+ Years** |
+| 🎓 Education | Bachelor's in Data Science |
+
+</div>
+
+#### 🔥 Current Focus
+
+<table>
+<tr><td>⚡</td><td><strong>Building Production AI Agents</strong></td></tr>
+<tr><td>🎥</td><td><strong>NVIDIA DeepStream SDK Mastery</strong></td></tr>
+<tr><td>🕸️</td><td><strong>Graph RAG Systems Development</strong></td></tr>
+<tr><td>🤝</td><td><strong>Multi-Agent Workflows</strong></td></tr>
+</table>
+
+#### 💡 Core Expertise
+
+**🤖 AI/ML:** Deep Learning • Computer Vision • NLP  
+**🧠 Frameworks:** LangChain • LangGraph • CrewAI  
+**🎬 NVIDIA:** DeepStream • Metropolis • TensorRT  
+**🗄️ Data:** Neo4j • Vector DBs • PostgreSQL
 
 <p align="center">
   <img src="https://img.shields.io/badge/Industrial_AI-3%2B_Years-00F7F7?style=flat-square&logo=artificial-intelligence" />
@@ -80,19 +83,33 @@ const sahil = {
 
 </div>
 
-**Featured Publication:**
+<br/>
 
-> 📄 **"Leveraging Deep Learning With Multi-Head Attention for Accurate Extraction of Medicine From Handwritten Prescriptions"**
+#### 📄 Featured Publication
 
-**Impact Areas:**
-- 🏥 Healthcare AI
-- 📝 Document Processing
-- 🧠 Attention Mechanisms
-- 💊 Medical Automation
+> **"Leveraging Deep Learning With Multi-Head Attention for Accurate Extraction of Medicine From Handwritten Prescriptions"**
+
+<br/>
+
+#### 🎯 Impact Areas
+
+<table>
+<tr>
+  <td align="center">🏥<br/><strong>Healthcare AI</strong></td>
+  <td align="center">📝<br/><strong>Document Processing</strong></td>
+</tr>
+<tr>
+  <td align="center">🧠<br/><strong>Attention Mechanisms</strong></td>
+  <td align="center">💊<br/><strong>Medical Automation</strong></td>
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Citations-Growing-00629B?style=flat-square&logo=google-scholar" />
   <img src="https://img.shields.io/badge/Field-Healthcare_AI-00629B?style=flat-square&logo=hospital" />
+  <img src="https://img.shields.io/badge/Published-2024-00629B?style=flat-square&logo=ieee" />
 </p>
 
 </td>
@@ -116,30 +133,38 @@ const sahil = {
 <tr>
 <td align="center" width="25%">
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<br/><strong>Multi-Agent AI</strong>
-<br/><sub>CrewAI • LangGraph • Orchestration</sub>
-<br/>
+<br/><br/>
+<strong>Multi-Agent AI</strong>
+<br/><br/>
+<sub>CrewAI • LangGraph<br/>Orchestration • Automation</sub>
+<br/><br/>
 <img src="https://img.shields.io/badge/Expert-00F7F7?style=flat-square"/>
 </td>
 <td align="center" width="25%">
 <img height="80" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"/>
-<br/><strong>Computer Vision</strong>
-<br/><sub>YOLO • DeepStream • Metropolis</sub>
-<br/>
+<br/><br/>
+<strong>Computer Vision</strong>
+<br/><br/>
+<sub>YOLO • DeepStream<br/>Metropolis • Real-time Analytics</sub>
+<br/><br/>
 <img src="https://img.shields.io/badge/Expert-76B900?style=flat-square"/>
 </td>
 <td align="center" width="25%">
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<br/><strong>Deep Learning</strong>
-<br/><sub>PyTorch • TensorFlow • Keras</sub>
-<br/>
+<br/><br/>
+<strong>Deep Learning</strong>
+<br/><br/>
+<sub>PyTorch • TensorFlow<br/>Keras • Neural Networks</sub>
+<br/><br/>
 <img src="https://img.shields.io/badge/Expert-FF6F00?style=flat-square"/>
 </td>
 <td align="center" width="25%">
 <img height="80" src="https://dist.neo4j.com/wp-content/uploads/20210423062553/neo4j-social-share-21.png"/>
-<br/><strong>Graph RAG</strong>
-<br/><sub>Neo4j • LangChain • Vector DBs</sub>
-<br/>
+<br/><br/>
+<strong>Graph RAG</strong>
+<br/><br/>
+<sub>Neo4j • LangChain<br/>Vector DBs • Knowledge Graphs</sub>
+<br/><br/>
 <img src="https://img.shields.io/badge/Expert-008CC1?style=flat-square"/>
 </td>
 </tr>
@@ -235,14 +260,11 @@ const sahil = {
 
 **Advanced AI-powered research assistant with multi-agent collaboration**
 
-```python
-features = {
-    "agents": "Multi-agent orchestration",
-    "routing": "Intelligent query processing",
-    "synthesis": "Comprehensive research",
-    "automation": "Autonomous delegation"
-}
-```
+#### 🎯 Key Features
+- 🤖 Multi-agent orchestration
+- 🧭 Intelligent query processing
+- 📊 Comprehensive research synthesis
+- ⚡ Autonomous task delegation
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-6C63FF?style=flat-square&logo=ai&logoColor=white)
@@ -259,14 +281,11 @@ features = {
 
 **AI-driven Graph RAG with Neo4j knowledge graphs**
 
-```python
-capabilities = {
-    "rag": "Graph-based retrieval",
-    "visualization": "Interactive Neo4j",
-    "search": "Semantic extraction",
-    "interface": "Gradio UI"
-}
-```
+#### 🎯 Key Features
+- 🕸️ Graph-based retrieval
+- 📊 Interactive Neo4j visualization
+- 🔍 Semantic search & extraction
+- 🖥️ Modern Gradio interface
 
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
@@ -286,14 +305,11 @@ capabilities = {
 
 **GPU-accelerated ML with CUDA optimization**
 
-```python
-performance = {
-    "acceleration": "XGBoost + CUDA",
-    "processing": "cuDF optimization",
-    "memory": "RMM management",
-    "speed": "10x faster"
-}
-```
+#### 🎯 Key Features
+- ⚡ XGBoost + CUDA acceleration
+- 🚀 cuDF optimization
+- 💾 RMM memory management
+- 📈 10x faster processing
 
 ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
@@ -310,14 +326,11 @@ performance = {
 
 **End-to-end AI financial platform**
 
-```python
-system = {
-    "nlp": "Natural language queries",
-    "kpi": "Automated generation",
-    "auth": "Secure analytics",
-    "viz": "Real-time dashboards"
-}
-```
+#### 🎯 Key Features
+- 💬 Natural language queries
+- 📊 Automated KPI generation
+- 🔒 Secure analytics
+- 📈 Real-time dashboards
 
 ![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
@@ -337,14 +350,11 @@ system = {
 
 **Text → Image → 3D pipeline with ComfyUI**
 
-```python
-pipeline = {
-    "input": "Text prompts",
-    "stage1": "Image generation",
-    "stage2": "3D model creation",
-    "output": "Textured 3D assets"
-}
-```
+#### 🎯 Key Features
+- ✍️ Text prompt input
+- 🖼️ Image generation
+- 🎭 3D model creation
+- 🎨 Automated texturing
 
 ![AI](https://img.shields.io/badge/-Generative_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![3D](https://img.shields.io/badge/-3D_Modeling-00F7F7?style=flat-square&logo=blender&logoColor=white)
@@ -361,18 +371,60 @@ pipeline = {
 
 **Real-time tracking with YOLO v11**
 
-```python
-tracking = {
-    "detection": "YOLO v11",
-    "tracking": "Entry/exit analytics",
-    "direction": "Movement analysis",
-    "processing": "Real-time video"
-}
-```
+#### 🎯 Key Features
+- 🎯 YOLO v11 detection
+- 📊 Entry/exit analytics
+- 🔄 Movement direction tracking
+- 🎥 Real-time processing
 
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [Python to Neo4j Knowledge Graph](https://github.com/SahiL911999/Python-Repository-to-Neo4j-Knowledge-Graph-Pipeline)
+
+<a href="https://github.com/SahiL911999/Python-Repository-to-Neo4j-Knowledge-Graph-Pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SahiL911999&repo=Python-Repository-to-Neo4j-Knowledge-Graph-Pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
+</a>
+
+**Repository Analysis → JSONL → Neo4j Pipeline**
+
+#### 🎯 Key Features
+- 📂 Automated repo analysis
+- 📝 JSONL generation
+- 🕸️ Neo4j graph loading
+- 📊 Code visualization
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Graph](https://img.shields.io/badge/-Knowledge_Graph-00F7F7?style=flat-square&logo=graphql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 😊 [Emotion Detection with MediaPipe](https://github.com/SahiL911999/Emotion-Detection-using-Google-Mediapipe-Facemesh)
+
+<a href="https://github.com/SahiL911999/Emotion-Detection-using-Google-Mediapipe-Facemesh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SahiL911999&repo=Emotion-Detection-using-Google-Mediapipe-Facemesh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
+</a>
+
+**Real-time emotion detection with Face Mesh**
+
+#### 🎯 Key Features
+- 🎭 MediaPipe integration
+- 👤 Real-time facial analysis
+- 😊 Emotion classification
+- 📍 468 landmark detection
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </td>
 </tr>
