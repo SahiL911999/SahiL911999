@@ -37,7 +37,7 @@
 
 ### 👨‍💼 Professional Profile
 
-**AI Engineer** @ [**Axiom World**](https://axiomworld.com)
+**AI Engineer** @ [**Axiom World**](https://axiomworld.net)
 📍 Lahore, Pakistan | 💼 3 Years Industrial Experience
 
 ```yaml
@@ -90,7 +90,7 @@ specialization: Deep Learning & Computer Vision
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/video.png" width="60"/><br/>
 <b>Computer Vision</b><br/>
-<sub>DeepStream • Metropolis</sub>
+<sub>Yolo + DeepStream • Metropolis</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/brain.png" width="60"/><br/>
