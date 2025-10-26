@@ -299,6 +299,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
+## 📫 Let's Collaborate!
+
+<div align="center">
+
+I'm always interested in collaborating on innovative AI projects.
+
+<div align="center">
+
+**💬 Feel free to reach out if you want to discuss AI, collaborate on projects, or just chat about technology!**
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -311,19 +321,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-profile)
 
 </div>
-
-## 📫 Let's Collaborate!
-
-<div align="center">
-
-I'm always interested in collaborating on innovative AI projects.
-
-<div align="center">
-
-**💬 Feel free to reach out if you want to discuss AI, collaborate on projects, or just chat about technology!**
-
-**📧 Email:** sahil.ranmbail@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/sahil-ranmbail](https://www.linkedin.com/in/sahil-ranmbail/)
 
 </div>
 
