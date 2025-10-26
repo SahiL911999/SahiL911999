@@ -14,11 +14,24 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-ranmbail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
-  <a href="mailto:sahil.ranmbail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/></a>
-  <a href="https://github.com/SahiL911999"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
+  <a href="https://www.linkedin.com/in/sahil-ranmbail/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="mailto:sahil.ranmbail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://github.com/SahiL911999">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
+  <a href="https://www.instagram.com/aka_madddy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+  </a>
+  <a href="https://www.facebook.com/Maddy.Flawed">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=SahiL911999&label=Profile%20Views&color=00F7F7&style=for-the-badge"/>
 </p>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -465,18 +478,6 @@
 
 </div>
 
-<br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahiL911999&custom_title=Contribution%20Activity&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&area_color=00F7F7&hide_border=true" width="100%"/>
-
-<br/>
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=SahiL911999&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="100%"/>
-
-</details>
-
 <!-- Animated Divider -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -496,46 +497,46 @@
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://www.linkedin.com/in/sahil-ranmbail/">
 <img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/><br/>
 <strong>LinkedIn</strong><br/>
 <sub>Professional Network</sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="mailto:sahil.ranmbail@gmail.com">
 <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60"/><br/>
 <strong>Email</strong><br/>
 <sub>Direct Contact</sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://github.com/SahiL911999">
 <img src="https://img.icons8.com/fluency/96/github.png" width="60"/><br/>
 <strong>GitHub</strong><br/>
 <sub>Code Portfolio</sub>
 </a>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/briefcase.png" width="60"/><br/>
-<strong>Portfolio</strong><br/>
-<sub>Coming Soon</sub>
+<td align="center" width="20%">
+<a href="https://www.instagram.com/aka_madddy/">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60"/><br/>
+<strong>Instagram</strong><br/>
+<sub>Visual Updates</sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://www.facebook.com/Maddy.Flawed">
+<img src="https://img.icons8.com/fluency/96/facebook-new.png" width="60"/><br/>
+<strong>Facebook</strong><br/>
+<sub>Social Connection</sub>
+</a>
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 🌐 Social Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ranmbail/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahiL911999)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.ranmbail@gmail.com)
-
-</div>
-
-</details>
 
 <!-- Animated Divider -->
 <div align="center">
